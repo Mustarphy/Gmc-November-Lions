@@ -1,3 +1,4 @@
+
 Here’s a sample documentation template for your repository:
 
 ---
